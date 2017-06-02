@@ -22,3 +22,7 @@ nums[0] <= nums[1] >= nums[2] <= nums[3]....
 即 偶数小于奇数
 做一下临近数判断然后进行交换即可，复杂度为0(n)详细看代码。
 另外一种思路是先整体排序，这样复杂度上升不推荐。
+
+```
+http://www.lintcode.com/zh-cn/problem/wiggle-sort/
+```
